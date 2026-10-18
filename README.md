@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Save a screenshot of the Study page as docs/hero-screenshot.png -->
-<img src="c:\Users\DELL\Downloads\download.png" alt="CLUTCH.ai Study Companion" width="900" />
+<img src=""C:\Users\DELL\Pictures\Screenshots\Screenshot 2026-10-18 210445.png"" alt="CLUTCH.ai Study Companion" width="900" />
 
 # ⚡ CLUTCH.ai Study Companion
 
